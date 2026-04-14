@@ -9,7 +9,7 @@ This project demonstrates how to deploy an **AI DevOps Assistant application** u
 - Amazon ECS (Fargate)
 - Application Load Balancer (ALB)
 
-📄 Reference: :contentReference[oaicite:0]{index=0}
+
 
 ---
 
